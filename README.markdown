@@ -2,6 +2,7 @@
 
 para probarlo tiene que seguir estos pasos
 entran a la carpeta src desde la consola
+
     1. javac *.java
 
     2. rmic ChatClientImpl
